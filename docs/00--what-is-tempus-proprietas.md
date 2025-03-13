@@ -1,5 +1,4 @@
 # What is Tempus Proprietas?
-
 **Tempus Proprietas** is a Latin phrase that translates to **“Time Ownership.”** It embodies the idea of taking control over one’s time, treating it as a valuable personal asset akin to property. In a world filled with distractions and competing demands, mastering time is a critical skill—one that **“Tempus Proprietas”** seeks to empower through a structured, AI-enhanced approach.
 
 The foundation of **“Tempus Proprietas”** draws inspiration from Brian Tracy’s **ABC123 method**, a proven technique for prioritizing tasks based on their importance and urgency. However, **“Tempus Proprietas”** goes beyond traditional time management by integrating with **Large Language Models (LLMs)** to make the process smarter, more adaptive, and widely accessible.
@@ -15,6 +14,9 @@ Effective time management is essential in today’s fast-paced environment. By m
 - **Achieve balance**: Harmonize work and personal life.
 
 **“Tempus Proprietas”** builds on the **ABC123 method**—categorizing tasks into priority levels (A, B, C, etc.) and ordering them numerically within each category—to create a clear roadmap for action. But its real innovation lies in leveraging AI to enhance this process.
+
+### The ABC Method in the Words of Brian Tracy Himself
+> "The ABC Method is a powerful priority setting technique that you can use every single day. This technique is so simple and effective that it can, all by itself, make you one of the most efficient and effective people in your field. The power of this technique lies in its simplicity."
 
 ---
 
